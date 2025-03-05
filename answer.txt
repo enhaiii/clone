@@ -1,1 +1,2 @@
-PATCH https://bcsqqywmpqrblggshyii.supabase.co/rest/v1/grades?id=eq.2 потом заходим в Body выбираем raw и формат JSON, а после пишем то на что хотим изменить, например {"grade": 5},
+PATCH https://bcsqqywmpqrblggshyii.supabase.co/rest/v1/grades?id=eq.2 потом заходим в Body выбираем raw и формат JSON, а после пишем то на что хотим изменить, например {"grade": 5} и потом нажимаем Send,
+POST https://bcsqqywmpqrblggshyii.supabase.co/rest/v1/works потом заходим в Body выбираем raw и формат JSON, а после пишем то что хотим добавить, например {"id":"3", "name":"Work №3", "author":"3", "description":"Write the rulers of England", "id_teacher":"1", "subject":"History", "answer":"Genry, Robert"} и потом нажимаем Send,
