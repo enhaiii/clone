@@ -1,7 +1,2 @@
 Работу выполнил Хазипов Максим, оцениваю БД Ксюши Харченко
 В БД 4 таблицы: works, grades, student, teacher.
-В таблице works 7 столбцов: id, которая связывает эту таблицу и таблицу grades, name, author, который связан с таблицей student столбцом id, description, id_teacher, который связан с таблицей teacher столбцом id, subject, body.
-В таблице student 3 столбца: id, full_name, group.
-В таблице teacher 2 столбца: id, full_name.
-В таблице grades 4 столбца: id, grade, id_teacher, который ссылается на таблицу teacher столбца id, id_works, который ссылается на таблицу works столбца id.
-Моя итоговая оценка 5
